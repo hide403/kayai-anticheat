@@ -20,11 +20,11 @@ The anticheat system continuously monitors player activities in real-time. By an
 
 ### 4. Customizable Configurations
 
-Server administrators have the flexibility to customize the anticheat configurations to suit the specific needs of their Minecraft community. Fine-tune detection thresholds, enable or disable certain checks, and adapt the anticheat to the unique characteristics of your server.
+Server owners or if you have been chosen to access the Kayai Anticheat configuration file bt the server owner, you have the flexibility to customize the anticheat configurations to suit the specific needs of their Minecraft community. Fine-tune detection thresholds, enable or disable certain checks, and adapt the anticheat to the unique characteristics of your server. This includes 30+ customizable settings and more than 15+ custom features only the Kayai Anticheat has.
 
 ### 5. Data-Driven Detection
 
-To ensure a high correct detection rate, we've personally, with the help of the community, collected over 100 million cheating data, including autoclick patterns, aim assist, fakelag, and much, MUCH more.
+To ensure a high correct detection rate, we've personally, with the help of the community, collected over 100 million cheating data, including autoclick patterns, aim assist, fakelag, and much, MUCH more. This was the combined effort of the developers of Kayai Anticheat, owners and the community who all wants to have a fair and level playing experience without a cheater-infested pvp scene.
 
 ### How it works
 
