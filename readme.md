@@ -8,15 +8,15 @@ Kayai Anticheat is a comprehensive anti-cheat solution designed specifically for
 
 ### 1. Ghost Module Detection
 
-Kayai Anticheat employs advanced algorithms to identify and combat ghost modules effectively. Ghost modules are often subtle and attempt to manipulate the game without being easily detectable. Our system is tuned to recognize and block such modules, providing a level playing field for all participants.
+Kayai Anticheat employs advanced algorithms to identify and combat ghost modules effectively. Ghost modules are often subtle and attempt to manipulate the game without being easily detectable. Our system is tuned to recognize and block such modules, providing a level playing field for all participants. It uses the K.D.A system. Currently the ghost module correct detections procent is 82%, 5% higher than kaiya.rip, 20% higher than MMC and 12% higher than duels.us. Keep in mind. Kayai is still in development and not closed to be finished and is already outclassing multiple popular servers.
 
 ### 2. Blatant Module Detection
 
-Blatant modules are those that operate openly and disrupt the gameplay experience for others. Kayai Anticheat is equipped with mechanisms to quickly detect and take action against blatant modules, maintaining a fair and enjoyable environment for legitimate players.
+Blatant modules are those that operate openly and disrupt the gameplay experience for others. Kayai Anticheat is equipped with mechanisms to quickly detect and take action against blatant modules, maintaining a fair and enjoyable environment for legitimate players. This is a mostly for servers with gamemodes like: bedwars, bedfight, bridge, etc. 
 
 ### 3. Real-time Monitoring
 
-The anticheat system continuously monitors player activities in real-time. By analyzing player behavior and game interactions, Kayai Anticheat can swiftly identify suspicious patterns and take preventive measures to stop potential cheaters.
+The anticheat system continuously monitors player activities in real-time. By analyzing player behavior and game interactions, Kayai Anticheat can swiftly identify suspicious patterns and take preventive measures to stop potential cheaters. It will automatically warn all staff members online right before banning the cheating player. This means that staff members can also check the user banned for cheating/suspicous gameplay, because sometimes human vision is needed.
 
 ### 4. Customizable Configurations
 
@@ -50,17 +50,6 @@ duels.us: 11/17 Banned (On "Blatant" Settings)<br>
 Kayai Anticheat: 1/17 Banned (On "Legit" Settings)<br>
 Kayai Anticheat: 13/17 Banned (On "Semi-Legit" Settings)<br>
 Kayai Anticheat): 17/17 Banned (On "Blatant" Settings)<br>
-
-Winner: Kayai
-
-### AGC vs Kayai Results
-AGC (MMC Anticheat): 0/17 Banned (On "Legit" Settings)<br>
-AGC (MMC Anticheat): 1/17 Banned (On "Semi-Legit" Settings)<br>
-AGC (MMC Anticheat): 7/17 Banned (On "Blatant" Settings)<br>
-#### Kayai
-Kayai Anticheat: 6/17 Banned (On "Legit" Settings)<br>
-Kayai Anticheat: 8/17 Banned (On "Semi-Legit" Settings)<br>
-Kayai Anticheat): 15/17 Banned (On "Blatant" Settings)<br>
 
 Winner: Kayai
 
