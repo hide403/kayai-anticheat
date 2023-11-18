@@ -32,46 +32,46 @@ We've collected millions of data with the help of our community from popular cli
 On the potpvp servers: MMC (Minemen.club), duels.us, kaiya.rip (eu + na). We've tested our client-side algorithm/anticheat with beta-tester (cheaters) to test our anticheat. The clients used were Slinky, Drip Lite, Vape V4 and Entropy.club.  You can see the stats below.
 
 ### MCC vs Kayai Results
-MMC Anticheat: 0/17 Banned (On "Legit" Settings)
-MMC Anticheat: 1/17 Banned (On "Semi-Legit" Settings)
-(MMC Anticheat: 7/17 Banned (On "Blatant" Settings)
+MMC Anticheat: 0/17 Banned (On "Legit" Settings)<br>
+MMC Anticheat: 1/17 Banned (On "Semi-Legit" Settings)<br>
+MMC Anticheat: 7/17 Banned (On "Blatant" Settings)<br>
 #### Kayai
-Kayai Anticheat: 6/17 Banned (On "Legit" Settings)
-Kayai Anticheat: 8/17 Banned (On "Semi-Legit" Settings)
-Kayai Anticheat: 15/17 Banned (On "Blatant" Settings)
+Kayai Anticheat: 6/17 Banned (On "Legit" Settings)<br>
+Kayai Anticheat: 8/17 Banned (On "Semi-Legit" Settings)<br>
+Kayai Anticheat: 15/17 Banned (On "Blatant" Settings)<br>
 
 Winner: Kayai
 
 ### duels.us vs Kayai Results
-duels.us: 3/17 Banned (On "Legit" Settings)
-duels.us: 6/17 Banned (On "Semi-Legit" Settings)
-duels.us: 11/17 Banned (On "Blatant" Settings)
+duels.us: 3/17 Banned (On "Legit" Settings)<br>
+duels.us: 6/17 Banned (On "Semi-Legit" Settings)<br>
+duels.us: 11/17 Banned (On "Blatant" Settings)<br>
 #### Kayai
-Kayai Anticheat: 1/17 Banned (On "Legit" Settings)
-Kayai Anticheat: 13/17 Banned (On "Semi-Legit" Settings)
-Kayai Anticheat): 17/17 Banned (On "Blatant" Settings)
+Kayai Anticheat: 1/17 Banned (On "Legit" Settings)<br>
+Kayai Anticheat: 13/17 Banned (On "Semi-Legit" Settings)<br>
+Kayai Anticheat): 17/17 Banned (On "Blatant" Settings)<br>
 
 Winner: Kayai
 
 ### AGC vs Kayai Results
-AGC (MMC Anticheat): 0/17 Banned (On "Legit" Settings)
-AGC (MMC Anticheat): 1/17 Banned (On "Semi-Legit" Settings)
-AGC (MMC Anticheat): 7/17 Banned (On "Blatant" Settings)
+AGC (MMC Anticheat): 0/17 Banned (On "Legit" Settings)<br>
+AGC (MMC Anticheat): 1/17 Banned (On "Semi-Legit" Settings)<br>
+AGC (MMC Anticheat): 7/17 Banned (On "Blatant" Settings)<br>
 #### Kayai
-Kayai Anticheat: 6/17 Banned (On "Legit" Settings)
-Kayai Anticheat: 8/17 Banned (On "Semi-Legit" Settings)
-Kayai Anticheat): 15/17 Banned (On "Blatant" Settings)
+Kayai Anticheat: 6/17 Banned (On "Legit" Settings)<br>
+Kayai Anticheat: 8/17 Banned (On "Semi-Legit" Settings)<br>
+Kayai Anticheat): 15/17 Banned (On "Blatant" Settings)<br>
 
 Winner: Kayai
 
 ### kaiya.rip vs Kayai Results
-kaiya.rip: 4/17 Banned (On "Legit" Settings)
-kaiya.rip: 8/17 Banned (On "Semi-Legit" Settings)
-kaiya.rip: 12/17 Banned (On "Blatant" Settings)
+kaiya.rip: 4/17 Banned (On "Legit" Settings)<br>
+kaiya.rip: 8/17 Banned (On "Semi-Legit" Settings)<br>
+kaiya.rip: 12/17 Banned (On "Blatant" Settings)<br>
 #### Kayai
-Kayai Anticheat: 4/17 Banned (On "Legit" Settings)
-Kayai Anticheat: 10/17 Banned (On "Semi-Legit" Settings)
-Kayai Anticheat): 14/17 Banned (On "Blatant" Settings)
+Kayai Anticheat: 4/17 Banned (On "Legit" Settings)<br>
+Kayai Anticheat: 10/17 Banned (On "Semi-Legit" Settings)<br>
+Kayai Anticheat): 14/17 Banned (On "Blatant" Settings)<br>
 
 Winner: Kayai
 
