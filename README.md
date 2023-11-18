@@ -1,2 +1,0 @@
-# kayai-anticheat
-Kayai Anticheat.
