@@ -31,41 +31,10 @@ To ensure a high correct detection rate, we've personally, with the help of the 
 We've collected millions of data with the help of our community from popular clients like Vape, Drip, Slinky, and more. This process has taken us over 6 months. We have compiled this data into an advanced algorithm that can easily detect normal, regular clicks (including double clicks) versus simulated clicks and double clicks. We call this algorithm "K.D.A" Kayai Detection Algorithm.
 On the potpvp servers: MMC (Minemen.club), duels.us, kaiya.rip (eu + na). We've tested our client-side algorithm/anticheat with beta-tester (cheaters) to test our anticheat. The clients used were Slinky, Drip Lite, Vape V4 and Entropy.club.  You can see the stats below.
 
-### MCC vs Kayai Results
-MMC Anticheat: 0/17 Banned (On "Legit" Settings)<br>
-MMC Anticheat: 1/17 Banned (On "Semi-Legit" Settings)<br>
-MMC Anticheat: 7/17 Banned (On "Blatant" Settings)<br>
-#### Kayai
-Kayai Anticheat: 6/17 Banned (On "Legit" Settings)<br>
-Kayai Anticheat: 8/17 Banned (On "Semi-Legit" Settings)<br>
-Kayai Anticheat: 15/17 Banned (On "Blatant" Settings)<br>
-
-Winner: Kayai
-
-### duels.us vs Kayai Results
-duels.us: 3/17 Banned (On "Legit" Settings)<br>
-duels.us: 6/17 Banned (On "Semi-Legit" Settings)<br>
-duels.us: 11/17 Banned (On "Blatant" Settings)<br>
-#### Kayai
-Kayai Anticheat: 1/17 Banned (On "Legit" Settings)<br>
-Kayai Anticheat: 13/17 Banned (On "Semi-Legit" Settings)<br>
-Kayai Anticheat): 17/17 Banned (On "Blatant" Settings)<br>
-
-Winner: Kayai
-
-### kaiya.rip vs Kayai Results
-kaiya.rip: 4/17 Banned (On "Legit" Settings)<br>
-kaiya.rip: 8/17 Banned (On "Semi-Legit" Settings)<br>
-kaiya.rip: 12/17 Banned (On "Blatant" Settings)<br>
-#### Kayai
-Kayai Anticheat: 4/17 Banned (On "Legit" Settings)<br>
-Kayai Anticheat: 10/17 Banned (On "Semi-Legit" Settings)<br>
-Kayai Anticheat): 14/17 Banned (On "Blatant" Settings)<br>
-
-Winner: Kayai
-
 
 ### Screenshots:
+
+not there yet :)
 
 ## License
 
